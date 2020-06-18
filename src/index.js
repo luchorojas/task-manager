@@ -9,10 +9,10 @@ const port = process.env.PORT || 3000
 app.use(express.json())
 
 app.use(userRouter)
-app.use(taskRouter)
+app.use(taskRouter) 
 
 app.listen(port, () => {
     console.log('El servidor esta funcionando en el puerto '+ port)
 }) 
 
-//Ver 12-07
+//watch video 14-6
