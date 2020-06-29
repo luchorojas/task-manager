@@ -2,7 +2,7 @@
 
 Here's a functional demo for the code
 https://rojas-taskmanager.herokuapp.com
-For import reqests in postman use `TaskApp.postman_collection.json`
+For import requests in postman use `TaskApp.postman_collection.json`
 
 This project was code in Node.JS version 13.10.1 and NPM libraries 6.13.7
 
