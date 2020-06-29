@@ -15,4 +15,4 @@ app.listen(port, () => {
     console.log('El servidor esta funcionando en el puerto '+ port)
 }) 
 
-//watch video 15-5
+//watch video 18-2
